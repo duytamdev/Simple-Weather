@@ -1,4 +1,4 @@
-# Weather App
+# Simple Weather App
 
 <h3>Ứng dụng theo dõi thời tiết một cách nhanh chóng và đơn giản<h3>
 <h3>Sử dụng openWeather API<h3>
